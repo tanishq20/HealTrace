@@ -43,6 +43,12 @@ __Web Site__
 	-  JAVASCRIPT
 	-  BOOTSTRAP
 	-  FLASK
+* Deployment:
+	-  AWS
+	-  EC2
+	-  Gunicorn
+	-  ngixn
+	-  XYZ
 
 	
 
