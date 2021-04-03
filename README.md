@@ -3,7 +3,7 @@
 ## Team Members
 Tanishq Kumar
 Naman Garg
-Mudit
+Mudit Jindal
 Amisha Jaiswal
 Dhanya A
 
