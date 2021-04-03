@@ -1,16 +1,3 @@
-# HealTrace
-
-## Team Members
-Tanishq Kumar
-Naman Garg
-Mudit Jindal
-Amisha Jaiswal
-Dhanya A
-
-### Project Track
-Healthcare
-
-
 <p align="center">
 <a href="https://github.com/Namangarg110/Diagnoze/blob/master/static/images/logo3.png">
 	<img src="https://github.com/Namangarg110/Diagnoze/blob/master/static/images/logo3.png" width=20%/>
