@@ -10,7 +10,7 @@
 
 __Web Site__
 
-<img src="https://github.com/Namangarg110/Diagnoze/blob/master/static/images/screen-capture%20(online-video-cutter.com).gif" />
+<img src="https://github.com/tanishq20/HealTrace/blob/main/screen-capture%20(2).gif" />
 
 
 ## Functionalities
